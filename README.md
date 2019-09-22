@@ -21,7 +21,7 @@ Tested with:<br>
 * UMenu App Launcher
 * Sidebar App Launcher
 #### KDE Themes
-* Modified Aex Dark Theme (Not Recommended due to UI / UX inconcsistency)
+* Modified Aex Dark Theme (Not Recommended due to UI / UX inconsistency)
 * McMojave
 * Mojave-CT
 #### Icon Packs
