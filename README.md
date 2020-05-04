@@ -49,6 +49,9 @@ Tested with:<br>
 * https://github.com/auranticus/San-Francisco-family
 * https://github.com/deezombiedude612/apple-fonts
 
+### System Tray Spacing
+To get the same spacing in the above screenshots, you need to edit line 321 in `usr/share/plasmoids/org.kde.plasma.private.systemtray/contents/ui/main.qml`
+
 # Installation / Manual Installation
 For the automatic installation, for those that know that their dependencies are correct, or just want to ride the lightning, go to the installed folder, right click > Actions (in the context menu) > Open Terminal / Konsole Here. Afterwards, you're going to run: `sudo ./install.sh`<br>
 <br>
