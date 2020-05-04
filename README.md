@@ -42,6 +42,12 @@ Tested with:<br>
 * Mojave Dark Aurorae
 #### Boot Loader
 * rEFInd
+#### Font Locations
+* https://github.com/supermarin/YosemiteSanFranciscoFont
+* https://github.com/AppleDesignResources/SanFranciscoFont
+* https://github.com/blaisck/sfwin
+* https://github.com/auranticus/San-Francisco-family
+* https://github.com/deezombiedude612/apple-fonts
 
 # Installation / Manual Installation
 For the automatic installation, for those that know that their dependencies are correct, or just want to ride the lightning, go to the installed folder, right click > Actions (in the context menu) > Open Terminal / Konsole Here. Afterwards, you're going to run: `sudo ./install.sh`<br>
