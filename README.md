@@ -1,9 +1,9 @@
 # MacOSR
 A MacOS Replica, built on KDE Plasma, using Latte and a litany of other tools, including references to bootloader, splashscreen, and local stylings.
 
-![Original](https://cdn.discordapp.com/attachments/369445684103086081/625201742983856128/Screenshot_20190922_012722.png)
+![Original](https://media.discordapp.net/attachments/665385149277536266/706732804763025458/Screenshot_20200504_010318.png?width=999&height=562)
 
-[**Alternate Version**](https://cdn.discordapp.com/attachments/369445684103086081/625201745106305035/Screenshot_20190922_012816.png)
+![Original](https://media.discordapp.net/attachments/665385149277536266/706733091762339860/Screenshot_20200504_010432.png?width=999&height=562)
 
 Note: There will be other versions and themes installed as well, to better help you pick a version that you prefer. The icons in the image **may** be supplied over GitHub, if they're okay with it, but it's quite a large filesize, approaching 5GB. If it becomes hosted offsite, I'll link the compiled folder here.
 
