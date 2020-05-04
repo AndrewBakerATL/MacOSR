@@ -9,8 +9,8 @@ Note: There will be other versions and themes installed as well, to better help 
 
 ## Prerequisites / Requirements
 Tested with:<br>
-`KDE Plasma (Latest)`<br>
-`Kubuntu 19.04 / Ubuntu 19.04`<br>
+`KDE Plasma (5.18 LTS Beta)`<br>
+`Kubuntu 20.04 / Ubuntu 20.04`<br>
 `An Internet Connection`<br>
 
 ## Included
@@ -40,6 +40,8 @@ Tested with:<br>
 #### Window Decorations
 * Modified Cupertino
 * Mojave Dark Aurorae
+#### Boot Loader
+* rEFInd
 
 # Installation / Manual Installation
 For the automatic installation, for those that know that their dependencies are correct, or just want to ride the lightning, go to the installed folder, right click > Actions (in the context menu) > Open Terminal / Konsole Here. Afterwards, you're going to run: `sudo ./install.sh`<br>
