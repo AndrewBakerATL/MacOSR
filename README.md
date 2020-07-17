@@ -1,3 +1,8 @@
+### Update 07/16/20
+I fully plan on making an installer via bash or python and adding it in. However, between behind the scenes work on another Discord project, Throwback (streaming DB), and a few others, in combination with heading back to school and work, I've had my hands pretty full. I also want to directly add in the fonts, configuration files, updated plasmoids and more, I'm just not entirely sure when.
+
+Obviously, I can't do things, I don't think, like create a setup for rEFInd, since it's variable based on the user's system. However, I'll try to link plymouth themes, rEFInd themes, SDDM themes, and the icon pack(s). Some of the icon packs are incredibly extensive, as I've been building my own from various areas, including, but not limited to, DeviantArt.
+
 # MacOSR
 A MacOS Replica, built on KDE Plasma, using Latte and a litany of other tools, including references to bootloader, splashscreen, and local stylings.
 
